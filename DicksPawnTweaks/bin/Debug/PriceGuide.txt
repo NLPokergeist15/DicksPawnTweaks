@@ -1,0 +1,5 @@
+﻿Intel i3 Series,i3,285
+Intel i5 Series,i5,325
+Intel i7 Series,i7,350
+Intel Dual Core,Dual Core,150
+Intel Core2 Duo,Core2 Duo,160
